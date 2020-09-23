@@ -1,5 +1,6 @@
 <h3>Original code</h3>
-Credits to <a link="https://github.com/iamtimsmith/building-a-blog-with-wordpress-and-gatsby">Tim Smith GitHub</a>
+Credits to Tim Smith
+Original GitHub repo: https://github.com/iamtimsmith/building-a-blog-with-wordpress-and-gatsby  
 
 <p>Gatsby installation:
 <i>npm install -g gatsby-cli</i>
